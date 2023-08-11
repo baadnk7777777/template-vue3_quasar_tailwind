@@ -1,4 +1,4 @@
-# Game Find-RGB (findrpg)
+# Themplate Vue3 + Quasar + Tailwind.
 
 A Quasar Project
 
